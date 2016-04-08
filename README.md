@@ -6,3 +6,4 @@ It will also show both the users' grid and the opponent's grid, the user's and o
 the number of hits each boat has left.
 The user will be able to select which cell to attack by inputting the cell's coordinates.
 The program will end once either player's fleet has sunk.
+The user may exit the program at any time by inputting "q" or "Q".
